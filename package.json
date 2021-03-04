@@ -1,0 +1,19 @@
+{
+  "name": "ps6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "d3": "^6.5.0",
+    "granim": "^2.0.0",
+    "moment": "^2.29.1",
+    "react-granim": "^1.1.0",
+    "webpack": "^5.24.3",
+    "webpack-cli": "^4.5.0"
+  }
+}
